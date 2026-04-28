@@ -9,3 +9,4 @@ eslint.config.js
 tsconfig.json
 yarn.lock
 *-lock.yaml
+README.md
